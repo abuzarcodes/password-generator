@@ -1,1 +1,1 @@
-HOSTED HERE - https://github.com/abuzarcodes/password-generator.git
+HOSTED HERE - https://password-generator-hazel-zeta.vercel.app
